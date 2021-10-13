@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%"  align="right" alt="Github" src="https://github.com/AshharImam/AshharImam/blob/main/github/resources/coding.gif" />
 
-- 👨🏽‍💻 I’m currently working on Projects basaed on Android, iOS with ReactNative ⚛️;
+- 👨🏽‍💻 I’m currently working on Projects based on Android, iOS with ReactNative ⚛️;
 - 🌱 I’m currently learning Kotlin;
 - 💬 Ask me about anything, I am happy to help;
 - 🤔 I want work and experience more;
