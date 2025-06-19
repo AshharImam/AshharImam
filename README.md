@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 Full-Stack Developer | React Native Specialist | Open Source Contributor
+## 🚀 Full-Stack Developer | React Native Specialist
 ### 📍 Karachi, Pakistan
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AshharImam)
