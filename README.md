@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-<img width="45%" align="right" alt="Coding Animation" src="https://github.com/AshharImam/AshharImam/blob/main/github/resources/coding.gif" />
+<img width="45%" align="right" alt="Coding Animation" src="https://github.com/AshharImam/AshharImam/blob/main/github/resources/penguin.gif" />
 
 **👨🏽‍💻 What I Do**
 - Building cross-platform mobile applications with **React Native**
