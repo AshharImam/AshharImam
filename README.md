@@ -2,11 +2,12 @@
 
 <div align="center">
 
-## 🚀 Full-Stack Developer | React Native Specialist
+## 🚀 Full-Stack Developer | React Native Specialist | Open Source Contributor
 ### 📍 Karachi, Pakistan
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AshharImam)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedmashharimam/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1332818631888732171)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashharimamsyed/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:murillo.ashharimam490@gmail.com)
 
